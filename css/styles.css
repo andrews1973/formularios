@@ -1,8 +1,11 @@
 .verde {
     color: green;
+    border: 1px solid green;
 }
 .rojo {
     color: red;
+    border: 1px solid red;
+   
 }
 #formulario1 div {
  margin-bottom: 1rem;
@@ -12,6 +15,8 @@ input {
   padding: 0.4rem;
 }
 
-#mensaje {
+#mensajes {
+  margin-top: 1rem;
   padding: 1rem;
+  max-width: 400px;
 }
