@@ -4,3 +4,14 @@
 .rojo {
     color: red;
 }
+#formulario1 div {
+ margin-bottom: 1rem;
+}
+
+input {
+  padding: 0.4rem;
+}
+
+#mensaje {
+  padding: 1rem;
+}
